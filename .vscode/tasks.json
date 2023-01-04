@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build extension",
+            "type": "shell",
+            "command": "web-ext build -o",
+            "problemMatcher": []
+        },
+        {
+            "label": "sign extension",
+            "type": "shell",
+            "command": "web-ext sign --api-key=%WEB_EXT_API_KEY% --api-secret=%WEB_EXT_API_SECRET% --api-proxy=%HTTP_PROXY%",
+            "problemMatcher": []
+        }
+    ]
+}

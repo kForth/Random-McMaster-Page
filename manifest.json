@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Random McMaster Part",
+  "version": "1.0.0",
+
+  "description": "Adds a 'Random Part' link to the bottom navbar on mcmaster.com",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.mcmaster.com/*"],
+      "js": ["random_mcmaster_part.js"]
+    }
+  ]
+}
