@@ -1,3 +1,5 @@
+<img width="128" height="128" src="icon.svg" />
+
 # Random McMaster Page
 
 Adds a `Random Page` link to the bottom navbar on mcmaster.com.
