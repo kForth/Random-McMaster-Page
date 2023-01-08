@@ -7,8 +7,11 @@ var observer = new MutationObserver(function (e) {
   link.textContent = "Random Page";
   link.classList.add("BottomNavLnk");
   link.setAttribute("id", "BottomNavWebPart_RandomPage");
-  link.setAttribute("href", "javascript:void(0);");
-  link.addEventListener("click", async function () {
+  link.setAttribute("href", "#");
+  link.setAttribute("role", "button");
+  link.addEventListener("click", async function (e) {
+    e.preventDefault();
+
     // Add loading icon
     var loader = document.createElement("div");
     loader.classList.add("ShellLayout_WaitIcon");
