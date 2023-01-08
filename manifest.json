@@ -1,8 +1,12 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Random McMaster Page",
   "version": "1.0.0",
   "description": "Adds a 'Random Page' link to the bottom navbar on mcmaster.com",
+  "icons": {
+    "48": "icon.svg",
+    "96": "icon.svg"
+  },
   "content_scripts": [
     {
       "matches": [
