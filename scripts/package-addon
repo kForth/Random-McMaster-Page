@@ -1,0 +1,15 @@
+# Create directories
+mkdir -p dist
+mkdir -p build && cd build
+
+# Copy files to temp directory
+cp -r ../icons/ ./
+cp -r ../README.md ./
+cp -r ../LICENSE ./
+cp -r ../random_page.js ./
+cp -r ../manifest_$1.json ./manifest.json
+
+# Zip files and cleanup
+rm -f ../dist/random_mcmaster_page-$1.zip
+zip -r ../dist/random_mcmaster_page-$1.zip *
+cd .. && rm -r build

@@ -2,15 +2,15 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "build extension",
+            "label": "zip mozilla addon",
             "type": "shell",
-            "command": "web-ext build",
+            "command": "scripts/package-addon mozilla",
             "problemMatcher": []
         },
         {
-            "label": "sign extension",
+            "label": "zip chrome addon",
             "type": "shell",
-            "command": "web-ext sign",
+            "command": "scripts/package-addon chrome",
             "problemMatcher": []
         }
     ]
