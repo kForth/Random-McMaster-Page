@@ -2,9 +2,9 @@
 
 # Random McMaster Page
 
-![Mozilla Add-on](https://img.shields.io/amo/v/random-mcmaster-part)
-![Mozilla Users](https://img.shields.io/amo/users/random-mcmaster-part)
-![Mozilla Rating](https://img.shields.io/amo/rating/random-mcmaster-part)
+![Mozilla Add-on](https://img.shields.io/amo/v/random-mcmaster-page)
+![Mozilla Users](https://img.shields.io/amo/users/random-mcmaster-page)
+![Mozilla Rating](https://img.shields.io/amo/rating/random-mcmaster-page)
 
 ![Chrome Web Store Add-on](https://img.shields.io/chrome-web-store/v/idopmfmgphikajdknpclokjmngilbggd)
 ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/idopmfmgphikajdknpclokjmngilbggd)
