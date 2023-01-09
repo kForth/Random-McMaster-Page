@@ -1,4 +1,4 @@
-<img width="128" height="128" src="icon.svg" />
+<img width="128" height="128" src="img/icon.svg" />
 
 # Random McMaster Page
 

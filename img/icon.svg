@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="135.46666mm"
+   height="135.46666mm"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.640001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect846"
+       width="135.46667"
+       height="135.46667"
+       x="-8.8817842e-16"
+       y="-8.8817842e-16"
+       rx="18.062223" />
+    <g
+       id="g12678"
+       transform="matrix(0.96882257,0,0,0.96882257,-5.5101732,2.0967291)">
+      <path
+         style="fill:none;stroke:#338000;stroke-width:19.663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 94.854001,103.00254 C 85.126187,102.7478 75.398304,102.49305 70.449117,90.774118 65.499929,79.055184 65.330102,55.873729 60.03574,44.239981 54.741378,32.606234 44.32264,32.521319 33.903427,32.4364"
+         id="path2734-3" />
+      <path
+         style="fill:none;stroke:#ffcc00;stroke-width:39.3261;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 94.854001,32.464119 C 85.126183,32.718864 75.3983,32.97361 70.449115,44.692543 65.499929,56.411476 65.330102,79.592931 60.035739,91.226679 54.741377,102.86043 44.322638,102.94534 33.903427,103.03026"
+         id="path2734-5" />
+      <path
+         style="fill:none;stroke:#008000;stroke-width:19.663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 94.854001,32.464119 C 85.126183,32.718864 75.3983,32.97361 70.449115,44.692543 65.499929,56.411476 65.330102,79.592931 60.035739,91.226679 54.741377,102.86043 44.322638,102.94534 33.903427,103.03026"
+         id="path2734" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round"
+         id="path2145-6"
+         transform="matrix(0.38418671,0,0,-0.38816802,-39.250685,139.73969)"
+         d="m 433.27797,93.395477 -90.98838,52.532163 0,-105.064325 z" />
+      <path
+         style="fill:#008000;fill-opacity:1;stroke-width:2.26772;stroke-linecap:round;stroke-linejoin:round"
+         id="path2145"
+         transform="matrix(0.38418671,0,0,0.38816802,-39.250685,-4.2420078)"
+         d="m 433.27797,93.395477 -90.98838,52.532163 0,-105.064325 z" />
+    </g>
+  </g>
+</svg>

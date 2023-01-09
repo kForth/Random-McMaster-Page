@@ -4,13 +4,13 @@
         {
             "label": "build extension",
             "type": "shell",
-            "command": "web-ext build -o",
+            "command": "web-ext build",
             "problemMatcher": []
         },
         {
             "label": "sign extension",
             "type": "shell",
-            "command": "web-ext sign --api-key=%WEB_EXT_API_KEY% --api-secret=%WEB_EXT_API_SECRET% --api-proxy=%HTTP_PROXY%",
+            "command": "web-ext sign",
             "problemMatcher": []
         }
     ]
