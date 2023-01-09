@@ -12,6 +12,11 @@
     "128": "icons/icon128.png",
     "512": "icons/icon512.png"
   },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{a33c470b-d151-4fc7-ae43-db4ab4d38b3f}"
+    }
+  },
   "content_scripts": [
     {
       "matches": [
