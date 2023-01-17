@@ -3,7 +3,7 @@ mkdir -p dist
 mkdir -p build && cd build
 
 # Copy files to temp directory
-cp -r ../icons/ ./
+cp -r ../icons/ ./icons/
 cp -r ../README.md ./
 cp -r ../LICENSE ./
 cp -r ../random_page.js ./
