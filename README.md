@@ -2,9 +2,9 @@
 
 # Random McMaster Page
 
-[![Mozilla Add-on](https://img.shields.io/amo/v/2b6a0363-1288-4003-a40b-54ea725c75ad)](https://addons.mozilla.org/en-US/firefox/addon/random-mcmaster-page/)
-[![Mozilla Users](https://img.shields.io/amo/users/2b6a0363-1288-4003-a40b-54ea725c75ad)](https://addons.mozilla.org/en-US/firefox/addon/random-mcmaster-page/)
-[![Mozilla Rating](https://img.shields.io/amo/rating/2b6a0363-1288-4003-a40b-54ea725c75ad)](https://addons.mozilla.org/en-US/firefox/addon/random-mcmaster-page/)
+[![Mozilla Add-on](https://img.shields.io/amo/v/random-mcmaster-page)](https://addons.mozilla.org/en-US/firefox/addon/random-mcmaster-page/)
+[![Mozilla Users](https://img.shields.io/amo/users/random-mcmaster-page)](https://addons.mozilla.org/en-US/firefox/addon/random-mcmaster-page/)
+[![Mozilla Rating](https://img.shields.io/amo/rating/random-mcmaster-page](https://addons.mozilla.org/en-US/firefox/addon/random-mcmaster-page/)
 
 [![Chrome Web Store Add-on](https://img.shields.io/chrome-web-store/v/idopmfmgphikajdknpclokjmngilbggd)](https://chrome.google.com/webstore/detail/random-mcmaster-page/idopmfmgphikajdknpclokjmngilbggd)
 [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/idopmfmgphikajdknpclokjmngilbggd)](https://chrome.google.com/webstore/detail/random-mcmaster-page/idopmfmgphikajdknpclokjmngilbggd)
