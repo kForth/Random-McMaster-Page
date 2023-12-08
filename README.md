@@ -10,7 +10,9 @@
 [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/idopmfmgphikajdknpclokjmngilbggd)](https://chrome.google.com/webstore/detail/random-mcmaster-page/idopmfmgphikajdknpclokjmngilbggd)
 [![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/idopmfmgphikajdknpclokjmngilbggd)](https://chrome.google.com/webstore/detail/random-mcmaster-page/idopmfmgphikajdknpclokjmngilbggd)
 
-Unlock the full potential of [McMaster-Carr](https://mcmaster.com) with one click. Discover new products & solutions with our extension that takes you to a random page on the website. Perfect for research, inspiration & finding what you need quickly.
+Unlock the full potential of [https://mcmaster.com](https://mcmaster.com) with one click. Discover new products & solutions with our extension that takes you to a random page on the website. Perfect for research, inspiration & finding what you need quickly.
+
+Disclaimer: This extension and its devleoper(s) have no affilication with https://mcmaster.com or its owners.
 
 ## Installation
 
